@@ -120,8 +120,3 @@ Overall, this project highlights the importance of understanding customer behavi
 <a name="Licences"></a>
 
 [Database Contents License (DbCL) v1.0](https://opendatacommons.org/licenses/dbcl/1-0/)
-
-## Contact
-<a name="Contact"></a>
-
-Find me on [LinkedIn](https://www.linkedin.com/in/tanja-ad%C5%BEi%C4%87/), [Twitter](https://twitter.com/adzic_tanja) or [adzictanja.com](https://www.adzictanja.com/).
